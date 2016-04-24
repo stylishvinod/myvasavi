@@ -1,0 +1,20 @@
+  <ion-view cache-view="false">
+    <ion-content>
+      <div style="border:1px solid Gray;width=100%;	background-image: url(http://s8.postimg.org/68764giol/black_brushed_metal_background.jpg);padding:5px;box-shadow: 10px 10px 5px gray;">
+          <h3 style="text-align:center;color:white;text-shadow: 5px 5px 5px #888888;">
+{{eventObj.event_name }}<br/>
+{{eventObj.event_date}}
+</h3>
+</div>
+
+
+<ion-slide-box  auto-play="true"  slide-interval="2000" does-continue="true" class="eventSlider">
+
+  <ion-slide ng-repeat="imag in eventObj.event_imgs">
+      <img ng-src={{imag}} >
+  </ion-slide>
+</ion-slide-box>
+
+
+    </ion-content>
+  </ion-view>

@@ -1,0 +1,15 @@
+  <ion-view view-title="Main Modals">
+    <ion-content>
+  <h1>{{Playlist}}</h1>
+  <ion-item ng-repeat="item in items"
+             class="item-thumbnail-left" href="#/app/showItem/{{item._id}}" ng-mouseover="favImage = true" ng-mouseleave="favImage = false">
+
+     <img ng-src="{{item.item_image_url[0]}}"  />
+     <h2 >{{item.item_name}}   </h2>
+     <h3 >Shop Name : {{item.shop_name}}</h3>
+      <h3 >Shop No : {{item.shop_no}}</h3>
+    
+   </ion-item>
+
+    </ion-content>
+  </ion-view>

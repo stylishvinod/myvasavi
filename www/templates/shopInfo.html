@@ -1,0 +1,48 @@
+
+<ion-view cache-view="false">
+  <ion-content>
+
+
+
+      <div style="border:1px solid Gray;width=100%;	;padding:5px;box-shadow: 10px 10px 5px gray;background-image: url(http://s18.postimg.org/q74y6og49/gal3.jpg); ">
+          <h2 style="text-align:center;color:white;font-size:34px;text-shadow: 3px 5px 3px white ;font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;"> {{shopObj.shop_name}} </h2>
+  <!--   <span style="text-align:center">  Sh. No : {{shopObj.shop_no}} </span></br>
+    <span style="text-align:center;">  (Prop : {{shopObj.shop_owner}} )</span>  -->
+  <div style="text-align:center;color:white;font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;"> Sh. No : {{shopObj.shop_no}}  Prop : {{shopObj.shop_owner}}
+
+ <div  class="ion-android-call" >
+   {{shopObj.shop_phoneNo}}
+</div>
+</div>
+</div>
+
+<ion-slide-box  auto-play="true"  slide-interval="2000" does-continue="true" height="70%" class="shopslider">
+
+  <ion-slide ng-repeat="imag in shopObj.shop_image">
+      <img ng-src={{imag}} >
+  </ion-slide>
+</ion-slide-box>
+
+<div class="list">
+
+  <label class="item item-input item-select item-calm">
+    <div class="input-label">
+      Models for
+    </div>
+    <select ng-model="conceptObj" ng-options="concept as concept.model_for for concept in shopObj.models_available">
+    </select>
+  </label>
+
+</div>
+
+  <div class="list" style="text-align:left;">
+
+    <ion-list>
+      <ion-item ng-repeat="model in conceptObj.models" >
+        {{model}}
+      </ion-item>
+    </ion-list>
+</div>
+    <div id="map" data-tap-disabled="true" style="height:50%;"></div>
+        </ion-content>
+</ion-view>

@@ -1,0 +1,9 @@
+<ion-view cache-view="false">
+  <ion-content>
+      <ion-item ng-repeat="eachModal in allModals" class="item item-thumbnail-right"  href="#/app/perticularModal/{{modelFor}}/{{eachModal.model_name}}">
+        {{eachModal.model_name}}
+        <img ng-src="{{eachModal.model_image}}"  />
+
+      </ion-item>
+  </ion-content>
+</ion-view

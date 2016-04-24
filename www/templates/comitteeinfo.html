@@ -1,0 +1,53 @@
+<ion-view cache-view="false">
+  <ion-nav-title>committee info</ion-nav-title>
+  <ion-content>
+
+<center>
+    <div ng-repeat="dtl in comminfo" >
+<!--      <a href="#/app/showItem/{{dtl._id}}" style="text-decoration:none; text-overflow:    ellipsis;"> -->
+         <img ng-src="{{dtl.com_img}}"  title="{{dtl.com_name}}" style="width:160px;height:170px;" /> </br>
+         <div title="{{dtl.com_name}}"  style="display:inline;">
+        <span class="textDots">Name:{{dtl.com_name}}</span>
+        <br/>  Role : {{dtl.role}}
+
+        </div>
+      <hr/>
+
+
+    </div>
+</center>
+
+
+
+ <!--
+<div class = "row" ng-repeat="dtl in comminfo" ng-if="$index % 2 === 0" style="margin-bottom:20px">
+
+
+<div  class="col col-50" ng-if="$index < comminfo.length" >
+<a href="#/app/showItem/{{dtl._id}}" style="text-decoration:none; text-overflow:    ellipsis;">
+   <img ng-src="{{comminfo[$index].com_img}}"  style="width:160px;height:170px;" title="{{dtl.com_name}}"/>
+   <div title="{{comminfo[$index].com_name}}" >
+  <span class="textDots" >Name:{{comminfo[$index].com_name}}</span>
+  <br/>  Role : {{comminfo[$index].role}}
+
+  </div>
+<hr/>
+</a>
+</div>
+
+<div  class="col col-50" ng-if="$index + 1 < comminfo.length" >
+<a href="#/app/showItem/{{dtl._id}}" style="text-decoration:none; text-overflow:    ellipsis;">
+   <img ng-src="{{comminfo[$index + 1].com_img}}"  style="width:160px;height:170px;" title="{{comminfo[$index + 1].com_name}}"/>
+   <div title="{{comminfo[$index + 1].com_name}}" >
+  <span class="textDots" >Name:{{comminfo[$index + 1].com_name}}</span>
+  <br/>  Role : {{comminfo[$index + 1].role}}
+
+  </div>
+     <hr/>
+</a>
+</div>
+
+</div>
+-->
+  </ion-content>
+  </ion-view>

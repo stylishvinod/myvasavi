@@ -1,0 +1,36 @@
+
+<ion-view view-title="Item">
+  <ion-content>
+
+
+    <div style="border:1px solid Gray;width=100%;	background-image: url(http://s8.postimg.org/68764giol/black_brushed_metal_background.jpg);padding:5px;box-shadow: 10px 10px 5px gray;">
+        <h3 style="text-align:center;color:white;text-shadow: 10px 10px 5px #888888;"> {{shopObj.shop_name}} </h3>
+<!--   <span style="text-align:center">  Sh. No : {{shopObj.shop_no}} </span></br>
+  <span style="text-align:center;">  (Prop : {{shopObj.shop_owner}} )</span>  -->
+<p style="text-align:center;color:white;"> Sh. No : {{shopObj.shop_no}} </br>(Prop : {{shopObj.shop_owner}} ) </p>
+</div>
+<div class="item item-image image-header">
+<img ng-src="{{shopObj.shop_image}}" />
+</div>
+<div class="list">
+
+  <label class="item item-input item-select item-calm">
+    <div class="input-label">
+      Models for
+    </div>
+    <select ng-model="conceptObj" ng-options="concept as concept.model_for for concept in shopObj.models_available">
+    </select>
+  </label>
+
+</div>
+
+  <div class="list" style="text-align:left;">
+
+    <ion-list>
+      <ion-item ng-repeat="model in conceptObj.models" href="#/app/itemsUnderModelAndShop/{{shopObj._id}}/{{conceptObj.model_for}}/{{model}}">
+        {{model}}
+      </ion-item>
+    </ion-list>
+</div>
+  </ion-content>
+</ion-view>

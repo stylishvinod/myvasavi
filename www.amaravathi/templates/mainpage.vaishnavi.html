@@ -1,0 +1,99 @@
+<br/>
+<br/>
+<ion-view>
+<ion-content>
+<ion-slide-box  auto-play="true"  slide-interval="2000" does-continue="true">
+  <ion-slide>
+      <img src="/img/ima1.jpg" >
+  </ion-slide>
+  <ion-slide>
+         <img src="/img/ima2.jpg">
+  </ion-slide>
+  <ion-slide>
+      <img src="/img/ima3.jpg">
+  </ion-slide>
+  <ion-slide>
+      <img src="/img/ima4.jpg">
+  </ion-slide>
+  <ion-slide>
+      <img src="/img/ima5.jpg">
+  </ion-slide>
+</ion-slide-box>
+
+<ion-nav-buttons side="primary">
+ <button class="button" ng-click="doSomething()">
+   I'm a button on the primary of the navbar!
+ </button>
+</ion-nav-buttons>
+<br/>
+<center>
+<div  class=logo align="center" style="background-color:#33cd5f;color:white;width:100%;;height:90px;border-radius: 10px;">
+  <img src="/img/namefin.png" width=100% height=100% >
+<!--<span style="font-size:35px;letter-spacing: 10px;position:relative;top:33px;font-family:Copperplate / Copperplate Gothic Light, sans-serif;">  VAISHNAVI </span>
+<br/><span style="font-size:18px;padding-top: 150px;position:relative;top:42px;font-family:Copperplate / Copperplate Gothic Light, sans-serif;">  Complex </span>-->
+
+</div>
+<!--Vasavi Complex code-->
+<!--<div  align="center" style="background-color:#33cd5f;color:white;width:375px;;height:110px;border-radius: 10px;">
+<span style="font-size:35px;letter-spacing: 20px;text-shadow: 10px 10px 5px #888888;position:relative;top:33px;font-family:Copperplate / Copperplate Gothic Light, sans-serif;">  VASAVI </span>
+<br/><span style="font-size:18px;padding-top: 150px;position:relative;top:42px;font-family:Copperplate / Copperplate Gothic Light, sans-serif;"> Wholesale Cloth Merchant Complex </span>
+
+</div>-->
+
+</center>
+<div class="row">
+
+       <div class="col" >
+
+         <a  href="#/app/modals/Men"   >
+      <!--<img src="/img/icon1.jpg">-->
+      <img src="http://s21.postimg.org/w34szx0nr/icon11.jpg" >
+      <!--<h2 class="vertical-text">Man</h2>-->
+
+    </a>
+
+
+  </div>
+
+       <div class="col" >
+         <a  href="#/app/modals/Women">
+
+      <img src="http://s11.postimg.org/bbtio1klf/icon31.jpg" >
+      <!--<h2 class="vertical-text">Women</h2>-->
+
+    </a>
+       </div>
+
+   </div>
+
+   <div class="row">
+
+           <div class="col" >
+             <a  href="#/{{item.id}}"  >
+
+          <img src="http://s12.postimg.org/xg98p6dpp/icon21.jpg"  >
+          <!--<h2 class="vertical-text">Children</h2>-->
+
+        </a>
+
+           </div>
+
+           <div class="col" >
+             <a  href="#/{{item.id}}"  >
+
+          <img src="http://s27.postimg.org/eeyvsyos3/icon41.jpg" >
+          <!--<h2 class="vertical-text">Home-Decor</h2>-->
+
+        </a>
+
+           </div>
+
+      </div>
+
+<a href="#/app/search" style="text-decoration:none ;">
+  <button class="button button-full button-balanced">
+   Search By Shop
+  </button>
+</a>
+</ion-content>
+</ion-view>

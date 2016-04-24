@@ -1,0 +1,16 @@
+<ion-view cache-view="false">
+  <ion-nav-title>Events</ion-nav-title>
+  <ion-content>
+
+    <ion-item ng-repeat="event in events "
+               class="item item-thumbnail-left"  href="#/app/perticularEvent/{{event._id}}" >
+
+      <img ng-src="{{event.event_home_img}}"  />
+
+       <h2>{{event.event_name}}</h2>
+      <h2>{{event.event_date}}</h2>
+
+
+     </ion-item>
+  </ion-content>
+</ion-view>

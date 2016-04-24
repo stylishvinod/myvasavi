@@ -1,0 +1,19 @@
+<ion-view view-title="Dresses Bazar">
+  <ion-content>
+
+    <label class="item item-input">
+        <input type="text" placeholder="category Search" ng-model="categ">
+    </label>
+
+
+    <ion-item ng-repeat="cat in catDetails | filter:categ | orderBy : 'cat_name'"
+               class="item item-thumbnail-left"  href="#/app/categ/{{cat._id}}" >
+
+
+
+       <h2 ng-if="$odd" style="background-color:#f1f1f1">{{cat.cat_name}}</h2>
+       <h2 ng-if="$even">{{cat.cat_name}}</h2>
+
+     </ion-item>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,44 @@
+.slider {
+    height: 25vh;
+    width:100%;
+}
+
+.vertical-text {
+	transform: rotate(90deg);
+	transform-origin: 5px;
+}
+.boredr-remove{
+border-width: 0px;
+}
+.large-green{
+  font-size: 32px;
+   color: green
+ }
+.heading {
+  color: #333333;
+   font-family: 'Bitter', serif;
+   font-size: 135%;
+    font-weight: normal;
+     line-height: 150%;
+     margin: 0 0 20px;
+    }
+
+    .item .icon .icon-badge {
+      position: absolute;
+      right: 20%;
+      font-size: 30%;
+    }
+
+    .icon{
+      width : 17%;
+    }
+
+
+.textDots{
+    display:inline-block;
+    width:80%;
+    white-space: nowrap;
+    overflow:hidden !important;
+    text-overflow: ellipsis;
+    text-transform: capitalize;
+}
