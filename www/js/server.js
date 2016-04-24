@@ -6,7 +6,7 @@ var BUCKET_NAME = 'readytolearning';
 var collections = ["models", "items","shops","events","committee","offers"];
 
 var ObjectId  = require("mongodb").ObjectID;
-var db = require("mongojs").connect(databaseUrl, collections);
+var db = require("mongojs")(databaseUrl,collections);
 
 var express = require('express');
 
@@ -157,7 +157,7 @@ app.get("/getOffers", function(request, response) {
     });
 
 });
-var server = app.listen(8080, 'localhost', function() {
+var server = app.listen(8080, function() {
 
     var host =  "localhost";//server.address().address
     var port = server.address().port;
