@@ -2,8 +2,12 @@
   <ion-nav-title>offer coupons</ion-nav-title>
   <ion-content>
 
+    <label class="item item-input">
+        <input type="text" placeholder="Shop Search" ng-model="offersrc">
+    </label>
+
 <center>
-    <div ng-repeat="off in offerinfo" >
+    <div ng-repeat="off in offerinfo|filter:offersrc" >
 <!--      <a href="#/app/showItem/{{dtl._id}}" style="text-decoration:none; text-overflow:    ellipsis;"> -->
          <img ng-src="{{off.offer_image}}"  title="{{off.shop_name}}" style="width:160px;height:170px;" /> </br>
          <div title="{{off.shop_name}}"  style="display:inline;">
