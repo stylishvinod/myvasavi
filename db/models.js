@@ -91,6 +91,96 @@ db.models.insert([
   "model_name" : "Dresses",
   "model_for" : "Children",
   "model_image" : "http://s33.postimg.org/iedjly9wf/childup.jpg"
-}
+},
 
+
+{
+    "model_id" : "114",
+  "model_name" : "Jeans",
+  "model_for" : "Men",
+  "model_image" : "http://s33.postimg.org/z3tzzafhb/jeansmesn.jpg"
+},
+
+{
+    "model_id" : "115",
+  "model_name" : "Cotton Sarees",
+  "model_for" : "Women",
+ "model_image" : "http://s33.postimg.org/j4t8qrrbj/cotton.jpg"
+},
+
+{
+    "model_id" : "116",
+  "model_name" : "Bengali Cotton Sarees",
+  "model_for" : "Women",
+  "model_image" : "http://s33.postimg.org/ideiekgen/bengali.jpg"
+},
+
+{
+    "model_id" : "117",
+  "model_name" : "Fancy Sarees",
+  "model_for" : "Women",
+  "model_image" : "http://s33.postimg.org/a6k6al15b/Fancy.jpg"
+},
+
+{
+    "model_id" : "118",
+  "model_name" : "Work Sarees",
+  "model_for" : "Women",
+ "model_image" : "http://s33.postimg.org/mn2xyafin/work_sarees.jpg"
+},
+
+{
+    "model_id" : "119",
+  "model_name" : "Punjabi Dresses",
+  "model_for" : "Women",
+ "model_image" : "http://s33.postimg.org/99pp1fy1b/punjabi.jpg"
+},
+
+{
+    "model_id" : "120",
+  "model_name" : "Nighties",
+  "model_for" : "Women",
+ "model_image" : "http://s33.postimg.org/yky15eln3/nighties.jpg"
+},
+
+{
+    "model_id" : "121",
+  "model_name" : "Leggings",
+  "model_for" : "Women",
+  "model_image" : "http://s33.postimg.org/kcfv3k2rz/leggings.jpg"
+},
+
+{
+    "model_id" : "122",
+  "model_name" : "Ladies Tops",
+  "model_for" : "Women",
+ "model_image" : "http://s33.postimg.org/ork1k7u33/ladies_Tops.jpg"
+},
+{
+    "model_id" : "123",
+  "model_name" : "Door Curtains",
+  "model_for" : "Interior",
+ "model_image" : "http://s33.postimg.org/oak4pt4b3/door_curtain.jpg"
+},
+
+{
+    "model_id" : "124",
+  "model_name" : "Bed Covers",
+  "model_for" : "Interior",
+ "model_image" : "http://s33.postimg.org/4r8lxlb4v/bed_cover.jpg"
+},
+
+{
+    "model_id" : "125",
+  "model_name" : "Mosquito Nets",
+  "model_for" : "Interior",
+ "model_image" : "http://s33.postimg.org/7qagnlean/mosquito.jpg"
+},
+
+{
+    "model_id" : "126",
+  "model_name" : "Pillow Covers",
+  "model_for" : "Interior",
+  "model_image" : "http://s33.postimg.org/3shohp47z/pillow.jpg"
+}
 ]);
