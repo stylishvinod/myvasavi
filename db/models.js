@@ -39,6 +39,26 @@ db.models.insert([
   "model_name" : "Sarees",
   "model_for" : "Women",
   "model_image" : "http://static1.shop.indiatimes.com/images/products/medium/B5737056/fashion/sarees/ishin-red-beige-bhagalpuri-silk-printed-saree-spv104.jpg"
+},
+/* need to chagne image */
+{
+    "model_id" : "107",
+  "model_name" : "Dress Materials",
+  "model_for" : "Women",
+  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+},
+{
+    "model_id" : "108",
+  "model_name" : "Shirt Clothing",
+  "model_for" : "Men",
+  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+},
+
+{
+    "model_id" : "109",
+  "model_name" : "Pant Clothing",
+  "model_for" : "Men",
+  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
 }
 
 ]);

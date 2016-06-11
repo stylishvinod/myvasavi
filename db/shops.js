@@ -226,7 +226,132 @@ db.shops.insert(
       "model_for" : "Men",
       "models" : ["Cut-Pieces", "Shirts"]
     }]
-}
+},
 
-  ]
-);
+{
+    "shop_name" : "Sri Hanuman Enterprises",
+  "shop_no" : "75,76",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9849017919",
+  "shop_lan" : 80.46368,
+  "shop_lat" : 16.30686,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/jak7iw90f/IMG_7767.jpg","http://s33.postimg.org/h3ysxbe73/IMG_7733.jpg","http://s33.postimg.org/e9002l7rz/IMG_7766.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : ["Cut-Pieces", "Sarees"]
+    },
+    {
+        "model_for" : "Men",
+        "models" : ["Shirts", "Pants"]
+      }]
+},
+
+{
+    "shop_name" : "Sri Srinivasa Cut-Pieces",
+  "shop_no" : "73,74,103,104",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9966990200",
+  "shop_lan" : 80.46348,
+  "shop_lat" : 16.30691,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/s1x90k90f/IMG_7734.jpg","http://s33.postimg.org/4w4xeyra7/IMG_7735.jpg","http://s33.postimg.org/3lg08u65b/IMG_7785.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : ["Cut-Pieces", "Sarees"]
+    },
+    ]
+},
+{
+    "shop_name" : "Sri Kanaka Durga Saree Center",
+  "shop_no" : "69,70",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9246767317",
+  "shop_lan" : 80.46354,
+  "shop_lat" : 16.30689,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/5qwzhhme7/IMG_7764.jpg","http://s33.postimg.org/ybtw9on8f/IMG_7786.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : [ "Sarees"]
+    },
+    ]
+},
+
+{
+    "shop_name" : "Durgambica Textiles",
+  "shop_no" : "65",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9640028978,9100162826",
+  "shop_lan" : 80.46354,
+  "shop_lat" : 16.30689,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/3xpxyssrj/IMG_7763.jpg","http://s33.postimg.org/oid5g921r/IMG_7761.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : [ "Dress Materials"]
+    },
+    ]
+},
+
+{
+    "shop_name" : "Sri Lakshmi Narayana Textiles",
+  "shop_no" : "25,26",
+  "shop_owner" : "",
+  "shop_phoneNo" : "897753622",
+  "shop_lan" : 80.46338,
+  "shop_lat" : 16.30658,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/tp6oa9acf/IMG_7754.jpg","http://s33.postimg.org/6qo7fxzfj/IMG_7736.jpg","http://s33.postimg.org/5alvpaba7/IMG_7760.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : [ "Sarees"]
+    }
+    ]
+},
+
+{
+    "shop_name" : "Sri SaiKrishna Saree Center",
+  "shop_no" : "21,22",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9849142621",
+  "shop_lan" : 80.46338,
+  "shop_lat" : 16.30694,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/c1yz6ad27/IMG_7757.jpg","http://s33.postimg.org/top7u1eov/IMG_7751.jpg","http://s33.postimg.org/d2c8ypb4v/IMG_7752.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : [ "Sarees"]
+    },
+    {
+        "model_for" : "Men",
+        "models" : [ "shirts,pants"]
+      }
+    ]
+},
+
+{
+    "shop_name" : "Vijaya Lakshmi Textiles",
+  "shop_no" : "15",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9885029432",
+  "shop_lan" : 80.46331,
+  "shop_lat" : 16.30693,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/aprw5jlpb/IMG_7748.jpg","http://s33.postimg.org/4bb8ru8in/IMG_7753.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Men",
+        "models" : [ "Shirt Clothing,Pant Clothing"]
+      }
+    ]
+},
+
+
+
+
+
+
+
+
+  ]);
