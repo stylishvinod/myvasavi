@@ -18,7 +18,7 @@ db.models.insert([
 },
 
 /* 2 */
-{
+  {
     "model_id" : "103",
   "model_name" : "T-Shirts",
   "model_for" : "Women",
@@ -58,6 +58,18 @@ db.models.insert([
     "model_id" : "109",
   "model_name" : "Pant Clothing",
   "model_for" : "Men",
+  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+},
+{
+    "model_id" : "110",
+  "model_name" : "Cut-Sarees",
+  "model_for" : "Women",
+  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+},
+{
+    "model_id" : "111",
+  "model_name" : "Blouse Pieces",
+  "model_for" : "Women",
   "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
 }
 

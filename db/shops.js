@@ -101,20 +101,7 @@ db.shops.insert(
 },
 
 /* 6 */
-{
-    "shop_name" : " K.H. TEXTILES",
-  "shop_no" : "59,60",
-  "shop_owner" : "Ch Pitchaiah,A Syamprasad",
-  "shop_phoneNo" : "9490343265,8019470736",
-  "shop_lan" : 80.464135,
-  "shop_lat" : 16.306386,
-  "active" : "Y",
-  "shop_image" : ["http://s18.postimg.org/dfm9x83ah/IMG_6258.jpg", "http://s23.postimg.org/air8zacm3/IMG_6259.jpg", "http://s27.postimg.org/pu20wj1nn/IMG_6260.jpg"],
-  "models_available" : [{
-      "model_for" : "Men",
-      "models" : ["Cut-Pieces", "Shirts"]
-    }]
-},
+
 
 /* 7 */
 {
@@ -227,7 +214,7 @@ db.shops.insert(
       "models" : ["Cut-Pieces", "Shirts"]
     }]
 },
-
+/* New shops  */
 {
     "shop_name" : "Sri Hanuman Enterprises",
   "shop_no" : "75,76",
@@ -259,9 +246,11 @@ db.shops.insert(
   "models_available" : [{
       "model_for" : "Women",
       "models" : ["Cut-Pieces", "Sarees"]
-    },
+    }
     ]
 },
+
+
 {
     "shop_name" : "Sri Kanaka Durga Saree Center",
   "shop_no" : "69,70",
@@ -274,7 +263,7 @@ db.shops.insert(
   "models_available" : [{
       "model_for" : "Women",
       "models" : [ "Sarees"]
-    },
+    }
     ]
 },
 
@@ -290,7 +279,7 @@ db.shops.insert(
   "models_available" : [{
       "model_for" : "Women",
       "models" : [ "Dress Materials"]
-    },
+    }
     ]
 },
 
@@ -342,10 +331,133 @@ db.shops.insert(
   "models_available" : [
     {
         "model_for" : "Men",
-        "models" : [ "Shirt Clothing,Pant Clothing"]
+        "models" : [ "Shirt Clothing","Pant Clothing"]
       }
     ]
 },
+
+/*need to update new */
+
+{
+    "shop_name" : "MahaLakshmi Sarees",
+  "shop_no" : "16",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9966170420",
+  "shop_lan" : 80.46333,
+  "shop_lat" : 16.30686,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/71a8r2e5b/IMG_7740.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Sarees"]
+      }
+    ]
+},
+
+{
+    "shop_name" : "Ranganna Punjabi Dress Materials",
+  "shop_no" : "17,18",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9032551718",
+  "shop_lan" : 80.46346,
+  "shop_lat" : 16.30688,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/5p7c887q7/IMG_7743.jpg","http://s33.postimg.org/x45ayqqlb/IMG_7746.jpg","http://s33.postimg.org/volcr1vz3/IMG_7750.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Dress Materials"]
+      }
+    ]
+},
+
+{
+    "shop_name" : " K.H. TEXTILES",
+  "shop_no" : "59,60",
+  "shop_owner" : "Ch Pitchaiah,A Syamprasad",
+  "shop_phoneNo" : "9490343265,8019470736",
+  "shop_lan" : 80.464135,
+  "shop_lat" : 16.306386,
+  "active" : "Y",
+  "shop_image" : ["http://s18.postimg.org/dfm9x83ah/IMG_6258.jpg", "http://s23.postimg.org/air8zacm3/IMG_6259.jpg", "http://s27.postimg.org/pu20wj1nn/IMG_6260.jpg"],
+  "models_available" : [{
+      "model_for" : "Women",
+      "models" : ["Sarees"]
+    }]
+},
+
+{
+
+    "shop_name" : "Sri SiddiVinayaka Cut-pieces"
+  "shop_no" : "189,190,205,206",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9246463448",
+  "shop_lan" : 80.46399,
+  "shop_lat" : 16.30658,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/67xq9ix3z/IMG_7742.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Cut-Sarees"]
+      }
+    ]
+},
+
+{
+
+    "shop_name" : "Hema Chandra Textiles"
+  "shop_no" : "195,196,391,392"
+  "shop_owner" : "",
+  "shop_phoneNo" : "9866331490",
+  "shop_lan" : 80.46402,
+  "shop_lat" : 16.30664,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/ew3x7najj/IMG_7741.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Sarees"]
+      }
+    ]
+},
+
+{
+
+    "shop_name" : "Ambica Ganesh Matching Center",
+  "shop_no" : "170",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9885656526",
+  "shop_lan" : 80.46382,
+  "shop_lat" : 16.30063,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/z44sg17vj/IMG_7738.jpg","http://s33.postimg.org/qz5kk7u3j/IMG_7737.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Blouse Pieces"]
+      }
+    ]
+},
+
+{
+
+    "shop_name" : "Sri Sai Pavan Cut Pieces",
+  "shop_no" : "474",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9246763442",
+  "shop_lan" : 80.4648,
+  "shop_lat" : 16.30587,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/3pvf5mrrz/IMG_7827.jpg","http://s33.postimg.org/x51jy0d9b/IMG_7826.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Cut-Sarees"]
+      }
+    ]
+}
 
 
 
