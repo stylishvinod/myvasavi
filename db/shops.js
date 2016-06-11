@@ -747,7 +747,24 @@ db.shops.insert(
     {
         "model_for" : "Women",
         "models" : [ "Sarees"]
-      }
+      }]
+
+},
+{
+
+    "shop_name" : "Devi Silks",
+  "shop_no" : "427,428,429,453,454",
+  "shop_owner" : "",
+  "shop_phoneNo" : "9246486044",
+  "shop_lan" : 80.46468,
+  "shop_lat" : 16.30612,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/yv739ctr3/IMG_7865.jpg"],
+  "models_available" : [
+    {
+        "model_for" : "Women",
+        "models" : [ "Sarees"]
+      }]
 
 }
 

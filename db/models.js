@@ -51,14 +51,14 @@ db.models.insert([
     "model_id" : "108",
   "model_name" : "Shirt Clothing",
   "model_for" : "Men",
-  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+  "model_image" : "http://s33.postimg.org/4cxf60xwf/shirtbits.jpg"
 },
 
 {
     "model_id" : "109",
   "model_name" : "Pant Clothing",
   "model_for" : "Men",
-  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+  "model_image" : "http://s33.postimg.org/orlmsd02n/pantbits.jpg"
 },
 {
     "model_id" : "110",
@@ -70,27 +70,27 @@ db.models.insert([
     "model_id" : "111",
   "model_name" : "Blouse Pieces",
   "model_for" : "Women",
-  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+  "model_image" : "http://s33.postimg.org/kivnlpbbz/blouse.jpg"
 },
 {
     "model_id" : "112",
   "model_name" : "Designer Sarees",
   "model_for" : "Women",
-  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+  "model_image" : "http://s33.postimg.org/3o9evqg7z/designer.jpg"
 },
 
 {
     "model_id" : "112",
   "model_name" : "Cut Pieces",
   "model_for" : "Women",
-  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
-}
+  "model_image" : "http://s33.postimg.org/pklu1vgrj/IMG_7852.jpg"
+},
 
 {
     "model_id" : "113",
   "model_name" : "Dresses",
   "model_for" : "Children",
-  "model_image" : "http://static4.shop.indiatimes.com/images/products/additional/original/B2032413_View_1/fashion/t-shirts-shirts/clifton-grey-melange-plain-women-t-shirt-aaa00006997-70.jpg"
+  "model_image" : "http://s33.postimg.org/iedjly9wf/childup.jpg"
 }
 
 ]);
