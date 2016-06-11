@@ -389,7 +389,7 @@ db.shops.insert(
 
 {
 
-    "shop_name" : "Sri SiddiVinayaka Cut-pieces"
+    "shop_name" : "Sri SiddiVinayaka Cut-pieces",
   "shop_no" : "189,190,205,206",
   "shop_owner" : "",
   "shop_phoneNo" : "9246463448",
@@ -407,8 +407,8 @@ db.shops.insert(
 
 {
 
-    "shop_name" : "Hema Chandra Textiles"
-  "shop_no" : "195,196,391,392"
+    "shop_name" : "Hema Chandra Textiles",
+  "shop_no" : "195,196,391,392",
   "shop_owner" : "",
   "shop_phoneNo" : "9866331490",
   "shop_lan" : 80.46402,
