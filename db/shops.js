@@ -1319,5 +1319,721 @@ db.shops.insert(
       "model_for" : "Women",
       "models" : [ "Sarees","Designer Sarees","Dress Materials"]
       }]
-}
+},
+
+{
+
+    "shop_name" : "Nuthan Sarees & Dresses",
+  "shop_no" : "337,338,367,368",
+  "shop_owner" : "P.RamaKishore",
+  "shop_phoneNo" : "9440644613",
+  "shop_lan" : 80.46451,
+  "shop_lat" : 16.30630,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/yr07bwazj/IMG_7949.jpg","http://s33.postimg.org/4bh9ah8db/IMG_7950.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+
+{
+
+    "shop_name" : "Prabhu Deevena Sarees",
+  "shop_no" : "381",
+  "shop_owner" : "Sambaiah",
+  "shop_phoneNo" : "9885955551",
+  "shop_lan" : 80.46460,
+  "shop_lat" : 16.30628,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/n8swf1osv/IMG_7987.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+{
+
+    "shop_name" : "OM Sri Hanvitha Fabrics",
+  "shop_no" : "473",
+  "shop_owner" : "P.V.Sanjeeva Rao",
+  "shop_phoneNo" : "8897015240",
+  "shop_lan" : 80.46490,
+  "shop_lat" : 16.30592,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/nyuzd4gr3/IMG_7990.jpg","http://s33.postimg.org/j4pol7snj/IMG_7989.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+
+{
+
+    "shop_name" : "Sri Vignarajaya Fabrics  ",
+  "shop_no" : "465,466,467,468",
+  "shop_owner" : "D.Raja",
+  "shop_phoneNo" : "8897015240",
+  "shop_lan" : 80.46507,
+  "shop_lat" : 16.30620,
+  "active" : "Y",
+  "shop_image" : [""],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+
+{
+
+    "shop_name" : "Annapurna Cut Pieces",
+  "shop_no" : "339",
+  "shop_owner" : "D.Sriniasa Rao",
+  "shop_phoneNo" : "9246452021",
+  "shop_lan" : 80.46459,
+  "shop_lat" : 16.30619,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/b3g5babwv/IMG_7992.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Cut Sarees"]
+      }]
+},
+{
+
+    "shop_name" : "Chandrika Textiles",
+  "shop_no" : "331,332",
+  "shop_owner" : "G.Sriniasa Rao",
+  "shop_phoneNo" : "9030807767",
+  "shop_lan" : 80.46456,
+  "shop_lat" : 16.30649,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/v75a3tr67/IMG_7995.jpg","http://s33.postimg.org/o6znu0ixb/IMG_7997.jpg","http://s33.postimg.org/ftl8r8lvz/IMG_7996.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+
+{
+
+    "shop_name" : "Siva Ganesh Textiles",
+  "shop_no" : "329,330,165,166,287,288",
+  "shop_owner" : "Grandhi Maruthi",
+  "shop_phoneNo" : "9985028542",
+  "shop_lan" : 80.46443,
+  "shop_lat" : 16.30665,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/qjvjr2cb3/IMG_7999.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+{
+
+    "shop_name" : "Sree KK Handloom",
+  "shop_no" : "415,416",
+  "shop_owner" : "P.Venkateswara Rao",
+  "shop_phoneNo" : "9533411116",
+  "shop_lan" : 80.46330,
+  "shop_lat" : 16.30680,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/sbvwvhr67/IMG_8001.jpg","http://s33.postimg.org/yhomu4n9r/IMG_8002.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Kanchipattu Sarees","Cotton Sarees","Gadwal Sarees"]
+      }]
+},
+
+{
+
+    "shop_name" : "Saritha Saree Centre",
+  "shop_no" : "387,388",
+  "shop_owner" : "J.Nageswara Rao",
+  "shop_phoneNo" : "9866489916",
+  "shop_lan" : 80.46406,
+  "shop_lat" : 16.30624,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/mnwg15z7j/IMG_8003.jpg/","http://s33.postimg.org/vpyeuuwzj/IMG_8004.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Sarees","Designer Sarees","Dress Materials"]
+      }]
+},
+
+{
+
+    "shop_name" : "Prabu Textiles",
+  "shop_no" : "125,135,136,365,366",
+  "shop_owner" : "T.Santosh Kumar",
+  "shop_phoneNo" : "9959128355",
+  "shop_lan" : 80.46457,
+  "shop_lat" : 16.30621,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/k6gjzj6v3/IMG_8005.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Men",
+      "models" : [ "Pants","shirts","Shirt Clothing","pant Clothing"]
+      }]
+},
+
+{
+
+    "shop_name" : "Padmavathi Cut Pieces",
+  "shop_no" : "35,345,346",
+  "shop_owner" : "A.Srinivasa Rao",
+  "shop_phoneNo" : "9581734837,9394688368",
+  "shop_lan" : 80.46457,
+  "shop_lat" : 16.30621,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/4d2i2nu67/IMG_8006.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Cut Sarees"]
+      }]
+},
+
+{
+
+    "shop_name" : "Sai Krishna Handlooms",
+  "shop_no" : "347,348",
+  "shop_owner" : "J.Krishna",
+  "shop_phoneNo" : "9866557489",
+  "shop_lan" : 80.46428,
+  "shop_lat" : 16.30596,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/b5khfyrgf/IMG_8007.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Cut Sarees"]
+      }]
+},
+
+
+{
+
+    "shop_name" : "Sri Sai Ganesh Cut Pieces",
+  "shop_no" : "310",
+  "shop_owner" : "K.Satyanarayana",
+  "shop_phoneNo" : "9177075917",
+  "shop_lan" : 80.46414,
+  "shop_lat" : 16.30594,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/4a0pg8dxb/IMG_8008.jpg","http://s33.postimg.org/x6ah7g5tr/IMG_8009.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Cut Sarees"]
+      }]
+},
+
+
+{
+
+    "shop_name" : "Ambica Saree Centre",
+  "shop_no" : "311,312,313,314,305,306",
+  "shop_owner" : "K.Srinivasa Rao",
+  "shop_phoneNo" : "9703041656",
+  "shop_lan" : 80.46424,
+  "shop_lat" : 16.30597,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/fz9sounpb/IMG_8010.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Kanchipattu Sarees","Cotton Sarees","Gadwal Sarees"]
+      }]
+},
+
+
+{
+
+    "shop_name" : "Sai Baba Cut Pieces",
+  "shop_no" : "301,302,315,316",
+  "shop_owner" : "G.Janardhana Rao",
+  "shop_phoneNo" : "9840572728,9700535379",
+  "shop_lan" : 80.46418,
+  "shop_lat" : 16.30601,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/el4u7p18f/IMG_8011.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Cut Sarees"]
+      }]
+},
+
+{
+
+    "shop_name" : "Sai Balaji Cut Pieces",
+  "shop_no" : "317,318",
+  "shop_owner" : "K.Suresh",
+  "shop_phoneNo" : "9299309993",
+  "shop_lan" : 80.46427,
+  "shop_lat" : 16.30693,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/8yqut6s8v/IMG_8012.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Women",
+      "models" : [ "Cut Sarees"]
+      }]
+},
+
+{
+
+    "shop_name" : "Sri Madava Krishna Cloth Centre",
+  "shop_no" : "397,398",
+  "shop_owner" : "P.Murali Krishna",
+  "shop_phoneNo" : "9246489328",
+  "shop_lan" : 80.46434,
+  "shop_lat" : 16.30618,
+  "active" : "Y",
+  "shop_image" : ["http://s33.postimg.org/o94yoz8u7/IMG_8013.jpg"],
+  "models_available" : [
+    {
+      "model_for" : "Men",
+      "models" : [ "Shirt Clothing","Pant Clothing"]
+      }]
+},
+{
+
+      "shop_name" : "Sri Vasavi Silks",
+    "shop_no" : "323",
+    "shop_owner" : "",
+    "shop_phoneNo" : "9908908582",
+    "shop_lan" : 80.46448,
+    "shop_lat" : 16.30634,
+    "active" : "Y",
+    "shop_image" : ["http://s33.postimg.org/rvt5kl8qn/IMG_8014.jpg"],
+    "models_available" : [
+      {
+        "model_for" : "Women",
+        "models" : [ "Dress Materials","Cotton Dresses"]
+        }]
+  },
+
+  {
+
+        "shop_name" : "Sri Hanuman Cloth Stores",
+      "shop_no" : "299,300",
+      "shop_owner" : "S.Anjaneyulu",
+      "shop_phoneNo" : "9866882312",
+      "shop_lan" : 80.46414,
+      "shop_lat" : 16.30616,
+      "active" : "Y",
+      "shop_image" : ["http://s33.postimg.org/vcdanyv7j/IMG_8015.jpg"],
+      "models_available" : [
+        {
+          "model_for" : "Women",
+          "models" : [ "Dress Materials","Cotton Dresses"]
+        },
+        {
+          "model_for" : "Men",
+          "models" : [ "Shirt Clothing","Pant Clothing"]
+          }]
+    },
+
+
+      {
+
+            "shop_name" : "Viswa Gayathri Saree Centre",
+          "shop_no" : "265,266",
+          "shop_owner" : "K.Maheswara Rao",
+          "shop_phoneNo" : "9848560674",
+          "shop_lan" : 80.464315,
+          "shop_lat" : 16.30667,
+          "active" : "Y",
+          "shop_image" : ["http://s33.postimg.org/nlgf5koe7/IMG_8016.jpg"],
+          "models_available" : [
+            {
+              "model_for" : "Women",
+              "models" : [ "Designer Sarees","Sarees"]
+            }]
+        },
+
+
+              {
+
+                    "shop_name" : "Anuradha Krishna Cut Pieces",
+                  "shop_no" : "303,304",
+                  "shop_owner" : "V.Subramanyam",
+                  "shop_phoneNo" : "9490912789",
+                  "shop_lan" : 80.464409,
+                  "shop_lat" : 16.30613,
+                  "active" : "Y",
+                  "shop_image" : ["http://s33.postimg.org/ypivdik5b/IMG_8017.jpg"],
+                  "models_available" : [
+                    {
+                      "model_for" : "Women",
+                      "models" : [ "Cut Sarees"]
+                    }]
+                },
+
+                {
+
+                      "shop_name" : "Ambica Cut Pieces Centre",
+                    "shop_no" : "307",
+                    "shop_owner" : "P.Geetha",
+                    "shop_phoneNo" : "9703307213",
+                    "shop_lan" : 80.464406,
+                    "shop_lat" : 16.30594,
+                    "active" : "Y",
+                    "shop_image" : ["http://s33.postimg.org/4rwyqxren/IMG_8018.jpg"],
+                    "models_available" : [
+                      {
+                        "model_for" : "Women",
+                        "models" : [ "Cut Sarees"]
+                      }]
+                  },
+                {
+
+                      "shop_name" : "Urvasi Saree Mandir",
+                    "shop_no" : "261,262,267,268",
+                    "shop_owner" : "Rama Krishna",
+                    "shop_phoneNo" : "9849277609",
+                    "shop_lan" : 80.464403,
+                    "shop_lat" : 16.30606,
+                    "active" : "Y",
+                    "shop_image" : ["http://s33.postimg.org/ki6yu3blr/IMG_8019.jpg"],
+                    "models_available" : [
+                      {
+                        "model_for" : "Women",
+                        "models" : [ "Sarees"]
+                      }]
+                  },
+
+                  {
+
+                        "shop_name" : "Lalitha Naresh Textiles",
+                      "shop_no" : "273,274",
+                      "shop_owner" : "J.Venkateswara Rao",
+                      "shop_phoneNo" : "9985581416",
+                      "shop_lan" : 80.464428,
+                      "shop_lat" : 16.30622,
+                      "active" : "Y",
+                      "shop_image" : ["http://s33.postimg.org/x7jmwqb9b/IMG_8020.jpg"],
+                      "models_available" : [
+                        {
+                          "model_for" : "Women",
+                          "models" : [ "Sarees"]
+                        }]
+                    },
+
+
+                    {
+
+                          "shop_name" : "Lakshmi Venkateswara Agency",
+                        "shop_no" : "1,2",
+                        "shop_owner" : "Ajay Kumar",
+                        "shop_phoneNo" : "9491317650",
+                        "shop_lan" : 80.464772,
+                        "shop_lat" : 16.30523,
+                        "active" : "Y",
+                        "shop_image" : ["http://s33.postimg.org/kaf737s73/IMG_8021.jpg"],
+                        "models_available" : [
+                          {
+                            "model_for" : "Women",
+                            "models" : [ "Punjabi Dresses"]
+                          },
+                          {
+                            "model_for" : "Children",
+                            "models" : [ "Dresses"]
+                          }]
+                      },
+
+                      {
+
+                            "shop_name" : "Purna Saree Centre",
+                          "shop_no" : "11,12",
+                          "shop_owner" : "Sriniasa Rao",
+                          "shop_phoneNo" : "9848765857",
+                          "shop_lan" : 80.4647322,
+                          "shop_lat" : 16.30669,
+                          "active" : "Y",
+                          "shop_image" : ["http://s33.postimg.org/evtfyyjjz/IMG_8022.jpg"],
+                          "models_available" : [
+                            {
+                              "model_for" : "Women",
+                              "models" : [ "Designer Sarees","Cotton Sarees"]
+                            }
+                            ]
+                        },
+
+                        {
+
+                              "shop_name" : "Lakshmi Sudha Agencies",
+                            "shop_no" : "33,34,35,36",
+                            "shop_owner" : "Suresh",
+                            "shop_phoneNo" : "9848585083",
+                            "shop_lan" : 80.46772,
+                            "shop_lat" : 16.30523,
+                            "active" : "Y",
+                            "shop_image" : ["http://s33.postimg.org/flznrejy7/IMG_8023.jpg"],
+                            "models_available" : [
+                              {
+                                "model_for" : "Men",
+                                "models" : [ "Shirts","Pants"]
+                              }
+                              ]
+                          },
+
+                          {
+
+                              "shop_name" : "Sri Krishna Priya Saree Centre",
+                              "shop_no" : "40.49",
+                              "shop_owner" : "A.V.Subbarao",
+                              "shop_phoneNo" : "9885213775",
+                              "shop_lan" : 80.46315,
+                              "shop_lat" : 16.30645,
+                              "active" : "Y",
+                              "shop_image" : ["http://s33.postimg.org/kfslnqv7j/IMG_8025.jpg"],
+                              "models_available" : [
+                                {
+                                  "model_for" : "Women",
+                                  "models" : [ "Sarees"]
+                                }
+                                ]
+                            },
+                            {
+
+                                "shop_name" : "Suman Cut Pieces",
+                                "shop_no" : "41,42,47,48",
+                                "shop_owner" : "A.Srinivasa Rao",
+                                "shop_phoneNo" : "9848067111",
+                                "shop_lan" : 80.46772,
+                                "shop_lat" : 16.30523,
+                                "active" : "Y",
+                                "shop_image" : ["http://s33.postimg.org/4lrhj3am7/IMG_8026.jpg"],
+                                "models_available" : [
+                                  {
+                                    "model_for" : "Women",
+                                    "models" : [ "Cut Sarees"]
+                                  }
+                                  ]
+                              },
+
+
+
+                              {
+
+                                  "shop_name" : "Sri Durga Handlooms",
+                                  "shop_no" : "43,44,45,46",
+                                  "shop_owner" : "A.Srinivasa Rao",
+                                  "shop_phoneNo" : "9440021506",
+                                  "shop_lan" : 80.46314,
+                                  "shop_lat" : 16.30643,
+                                  "active" : "Y",
+                                  "shop_image" : ["http://s33.postimg.org/z3xmfzshr/IMG_8027.jpg"],
+                                  "models_available" : [
+                                    {
+                                      "model_for" : "Men",
+                                      "models" : [ "Shirts"]
+                                    }
+                                    ]
+                                },
+
+                                {
+
+                                    "shop_name" : "Sri Sai Durga Cut Pieces",
+                                    "shop_no" : "37,38,51,52",
+                                    "shop_owner" : "Narayana",
+                                    "shop_phoneNo" : "9440021506",
+                                    "shop_lan" : 80.46322,
+                                    "shop_lat" : 16.30638,
+                                    "active" : "Y",
+                                    "shop_image" : ["http://s33.postimg.org/h2no9od8f/IMG_8028.jpg"],
+                                    "models_available" : [
+                                      {
+                                        "model_for" : "Women",
+                                        "models" : [ "Cut Sarees"]
+                                      }
+                                      ]
+                                  },
+
+                                  {
+
+                                      "shop_name" : "Jayasri Cut Pieces",
+                                      "shop_no" : "23",
+                                      "shop_owner" : "K.Srinivas",
+                                      "shop_phoneNo" : "9440532091",
+                                      "shop_lan" : 80.46343,
+                                      "shop_lat" : 16.30702,
+                                      "active" : "Y",
+                                      "shop_image" : ["http://s33.postimg.org/ko2dv8s8v/IMG_8029.jpg"],
+                                      "models_available" : [
+                                        {
+                                          "model_for" : "Women",
+                                          "models" : [ "Cut Sarees"]
+                                        }
+                                        ]
+                                    },
+
+                                    {
+
+                                        "shop_name" : "Vedasri Textiles",
+                                        "shop_no" : "24",
+                                        "shop_owner" : "K.Srinivas",
+                                        "shop_phoneNo" : "9440532091",
+                                        "shop_lan" : 80.46343,
+                                        "shop_lat" : 16.30702,
+                                        "active" : "Y",
+                                        "shop_image" : ["http://s33.postimg.org/b7qctucjj/IMG_8030.jpg"],
+                                        "models_available" : [
+                                          {
+                                            "model_for" : "Women",
+                                            "models" : [ "Punjabi Dresses","Sarees","Leggings"]
+                                          },
+                                          {
+                                            "model_for" : "Men",
+                                            "models" : [ "Shirts","Pants","Innerwear"]
+                                          },
+                                          {
+                                            "model_for" : "Children",
+                                            "models" : [ "Dresses"]
+                                          }
+                                          ]
+                                      },
+
+                                      {
+
+                                          "shop_name" : "Sri Soubhagya Sarees",
+                                          "shop_no" : "27,28",
+                                          "shop_owner" : "Sambasiva Rao",
+                                          "shop_phoneNo" : "9949930213",
+                                          "shop_lan" : 80.46324,
+                                          "shop_lat" : 16.30706,
+                                          "active" : "Y",
+                                          "shop_image" : ["http://s33.postimg.org/al589jjsv/IMG_8031.jpg"],
+                                          "models_available" : [
+                                            {
+                                              "model_for" : "Women",
+                                              "models" : [ "Sarees"]
+                                            }
+                                            ]
+                                        },
+
+                                        {
+
+                                            "shop_name" : "Sri Sai Balaji Cut Pieces",
+                                            "shop_no" : "57",
+                                            "shop_owner" : "Ravi",
+                                            "shop_phoneNo" : "9246485790",
+                                            "shop_lan" : 80.46344,
+                                            "shop_lat" : 16.30679,
+                                            "active" : "Y",
+                                            "shop_image" : [""],
+                                            "models_available" : [
+                                              {
+                                                "model_for" : "Women",
+                                                "models" : [ "Sarees"]
+                                              }
+                                              ]
+                                          },
+
+
+                                        {
+
+                                            "shop_name" : "Manikanta Fashions",
+                                            "shop_no" : "58",
+                                            "shop_owner" : "K.Ramakrishna",
+                                            "shop_phoneNo" : "9492467963",
+                                            "shop_lan" : 80.46327,
+                                            "shop_lat" : 16.30686,
+                                            "active" : "Y",
+                                            "shop_image" : ["http://s33.postimg.org/meqgtug3j/IMG_8032.jpg"],
+                                            "models_available" : [
+                                              {
+                                                "model_for" : "Women",
+                                                "models" : [ "Sarees"]
+                                              }
+                                              ]
+                                          },
+
+
+                                          {
+
+                                              "shop_name" : "Ambica Silks",
+                                              "shop_no" : "71,72,105,106",
+                                              "shop_owner" : "K.Suresh",
+                                              "shop_phoneNo" : "9246733066",
+                                              "shop_lan" : 80.46357,
+                                              "shop_lat" : 16.30678,
+                                              "active" : "Y",
+                                              "shop_image" : ["http://s33.postimg.org/r53df5q0v/IMG_8033.jpg"],
+                                              "models_available" : [
+                                                {
+                                                  "model_for" : "Women",
+                                                  "models" : [ "Sarees"]
+                                                }
+                                                ]
+                                            },
+
+                                            {
+
+                                                "shop_name" : "Sri Vinayaka Textiles",
+                                                "shop_no" : "81,82,95,96",
+                                                "shop_owner" : "K.Siva",
+                                                "shop_phoneNo" : "9849957951",
+                                                "shop_lan" : 80.46338,
+                                                "shop_lat" : 16.30649,
+                                                "active" : "Y",
+                                                "shop_image" : ["http://s33.postimg.org/6b9wn7im7/IMG_8034.jpg"],
+                                                "models_available" : [
+                                                  {
+                                                    "model_for" : "Women",
+                                                    "models" : [ "Sarees"]
+                                                  }
+                                                  ]
+                                              },
+
+                                              {
+
+                                                  "shop_name" : "Vinayaka Saree Centre",
+                                                  "shop_no" : "83,84",
+                                                  "shop_owner" : "Babu",
+                                                  "shop_phoneNo" : "9849501660",
+                                                  "shop_lan" : 80.46340,
+                                                  "shop_lat" : 16.30645,
+                                                  "active" : "Y",
+                                                  "shop_image" : ["http://s33.postimg.org/te9mduyv3/IMG_8035.jpg"],
+                                                  "models_available" : [
+                                                    {
+                                                      "model_for" : "Women",
+                                                      "models" : [ "Sarees"]
+                                                    }
+                                                    ]
+                                                },
+
+                                                {
+
+                                                    "shop_name" : "Sri Lakshmi Banian Stores",
+                                                    "shop_no" : "85,86,91,92",
+                                                    "shop_owner" : "K.Srinivasa Rao",
+                                                    "shop_phoneNo" : "9866487507",
+                                                    "shop_lan" : 80.46360,
+                                                    "shop_lat" : 16.30661,
+                                                    "active" : "Y",
+                                                    "shop_image" : ["http://s33.postimg.org/qqxy8q9z3/IMG_8036.jpg"],
+                                                    "models_available" : [
+                                                      {
+                                                        "model_for" : "Men",
+                                                        "models" : [ "Innerwear"]
+                                                      }
+                                                      ]
+                                                  }
+
   ]);

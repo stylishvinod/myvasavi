@@ -182,5 +182,28 @@ db.models.insert([
   "model_name" : "Pillow Covers",
   "model_for" : "Interior",
   "model_image" : "http://s33.postimg.org/3shohp47z/pillow.jpg"
+},
+
+{
+    "model_id" : "127",
+  "model_name" : "Kanchipattu Sarees",
+  "model_for" : "Interior",
+  "model_image" : "http://s33.postimg.org/wcfbfo4cf/kanchipattu.jpg"
+},
+
+{
+    "model_id" : "128",
+  "model_name" : "Cotton Dresses",
+  "model_for" : "Women",
+  "model_image" : "http://s33.postimg.org/sh6vfzev3/cotton_Dress.jpg"
+},
+
+{
+    "model_id" : "129",
+  "model_name" : "Innerwear",
+  "model_for" : "Men",
+  "model_image" : "http://s33.postimg.org/5qanw203j/men_inner.jpg"
 }
+
+
 ]);
