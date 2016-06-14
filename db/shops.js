@@ -327,7 +327,7 @@ db.shops.insert(
   "shop_lan" : 80.46331,
   "shop_lat" : 16.30693,
   "active" : "Y",
-  "shop_image" : ["http://s33.postimg.org/aprw5jlpb/IMG_7748.jpg","http://s33.postimg.org/4bb8ru8in/IMG_7753.jpg"],
+  "shop_image" : ["http://s33.postimg.org/4bb8ru8in/IMG_7753.jpg"],
   "models_available" : [
     {
         "model_for" : "Men",
@@ -346,7 +346,7 @@ db.shops.insert(
   "shop_lan" : 80.46333,
   "shop_lat" : 16.30686,
   "active" : "Y",
-  "shop_image" : ["http://s33.postimg.org/71a8r2e5b/IMG_7740.jpg"],
+  "shop_image" : ["http://s33.postimg.org/71a8r2e5b/IMG_7740.jpg","http://s33.postimg.org/aprw5jlpb/IMG_7748.jpg"],
   "models_available" : [
     {
         "model_for" : "Women",
