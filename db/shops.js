@@ -2520,7 +2520,7 @@ db.shops.insert(
 "shop_lan" : 80.46388,
 "shop_lat" : 16.30608,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/rt70f0f5h/IMG_8094.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2538,7 +2538,7 @@ db.shops.insert(
 "shop_lan" : 80.46374,
 "shop_lat" : 16.30619,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s31.postimg.org/aplctetff/IMG_8095.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2556,7 +2556,7 @@ db.shops.insert(
 "shop_lan" : 80.46384,
 "shop_lat" : 16.30618,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/bz5fqfvgl/IMG_8096.jpg"],
 "models_available" : [
           {
       "model_for" : "Men",
@@ -2574,7 +2574,7 @@ db.shops.insert(
 "shop_lan" : 80.46382,
 "shop_lat" : 16.30616,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/47a27i6xx/IMG_8097.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2592,7 +2592,7 @@ db.shops.insert(
 "shop_lan" : 80.46386,
 "shop_lat" : 16.30624,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/4fz601xmt/IMG_8098.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2603,14 +2603,14 @@ db.shops.insert(
 },
 
 {
-"shop_name" : "Sri Durga Enterprises",
+"shop_name" : "Sri Devi Durga Enterprises",
 "shop_no" : "185,186",
 "shop_owner" : "Ramesh",
 "shop_phoneNo" : "9291565631",
 "shop_lan" : 80.46378,
 "shop_lat" : 16.30633,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/pvl2buuxh/IMG_8099.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2628,7 +2628,7 @@ db.shops.insert(
 "shop_lan" : 80.46390,
 "shop_lat" : 16.30636,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s31.postimg.org/kfjb3oejf/IMG_8100.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2646,7 +2646,7 @@ db.shops.insert(
 "shop_lan" : 80.46388,
 "shop_lat" : 16.30638,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/q9kiihz39/IMG_8101.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2664,7 +2664,7 @@ db.shops.insert(
 "shop_lan" : 80.463401,
 "shop_lat" : 16.30654,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/yum5lyi2t/IMG_8102.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2700,7 +2700,7 @@ db.shops.insert(
 "shop_lan" : 80.46398,
 "shop_lat" : 16.30669,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s31.postimg.org/wciqtktaj/IMG_8103.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
@@ -2718,7 +2718,7 @@ db.shops.insert(
 "shop_lan" : 80.46382,
 "shop_lat" : 16.30654,
 "active" : "Y",
-"shop_image" : [""],
+"shop_image" : ["https://s32.postimg.org/adalbvl3p/IMG_8104.jpg"],
 "models_available" : [
           {
       "model_for" : "Women",
