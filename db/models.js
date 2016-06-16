@@ -203,7 +203,22 @@ db.models.insert([
   "model_name" : "Innerwear",
   "model_for" : "Men",
   "model_image" : "http://s33.postimg.org/5qanw203j/men_inner.jpg"
+},
+
+{
+    "model_id" : "130",
+  "model_name" : "Shirts",
+  "model_for" : "Women",
+  "model_image" : "http://s33.postimg.org/5qanw203j/men_inner.jpg"
+},
+
+{
+    "model_id" : "131",
+  "model_name" : "Jeans",
+  "model_for" : "Women",
+  "model_image" : "http://s33.postimg.org/5qanw203j/men_inner.jpg"
 }
+
 
 
 ]);
