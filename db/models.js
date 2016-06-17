@@ -209,15 +209,43 @@ db.models.insert([
     "model_id" : "130",
   "model_name" : "Shirts",
   "model_for" : "Women",
-  "model_image" : "http://s33.postimg.org/5qanw203j/men_inner.jpg"
+  "model_image" : "https://s32.postimg.org/3nksxdfmd/ladies_shirts.jpg"
 },
 
 {
     "model_id" : "131",
   "model_name" : "Jeans",
   "model_for" : "Women",
-  "model_image" : "http://s33.postimg.org/5qanw203j/men_inner.jpg"
+  "model_image" : "https://s31.postimg.org/k7bi6clob/ladiesjeans.jpg"
+},
+
+{
+    "model_id" : "132",
+  "model_name" : "Lungi",
+  "model_for" : "Men",
+  "model_image" : "https://s31.postimg.org/8i0o31pmj/lungi.jpg"
+},
+
+{
+    "model_id" : "133",
+  "model_name" : "Designer Laces",
+  "model_for" : "Women",
+  "model_image" : "https://s32.postimg.org/irnxayjp1/designerlaces.jpg"
+},
+{
+    "model_id" : "134",
+  "model_name" : "Towels",
+  "model_for" : "Interior",
+  "model_image" : "https://s32.postimg.org/46x5v3n2d/towels.jpg"
+},
+
+{
+    "model_id" : "135",
+  "model_name" : "Designer Blouses",
+  "model_for" : "Women",
+  "model_image" : "https://s31.postimg.org/gau1fxn2z/designer_Blouse.jpg"
 }
+
 
 
 
